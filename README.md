@@ -67,8 +67,9 @@ A short explanation of how transformers work
 I’m still learning, so my explanations might not be perfect, but feedback and corrections are always welcome!
 ## Project Structure
 ```
-├── bigram.py  # main training and model script            
-├── Del-data.txt # dataset   
+├── Del-data.txt # dataset
 ├── GPT-from-scratch.ipynb # code + explanation
-└── README.md
+├── README.md
+└── bigram.py  # main training and model script            
+
 ```
